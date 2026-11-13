@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650.67 232">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-4 {
+        font-size: 24.73px;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        font-family: Nexa-Black, Nexa;
+        font-weight: 800;
+      }
+
+      .cls-7 {
+        letter-spacing: .03em;
+      }
+
+      .cls-5 {
+        font-size: 14.55px;
+      }
+
+      .cls-8 {
+        letter-spacing: .04em;
+      }
+
+      .cls-9 {
+        letter-spacing: .02em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        font-size: 84.03px;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: .05em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        letter-spacing: .03em;
+      }
+
+      .cls-17 {
+        letter-spacing: .05em;
+      }
+    </style>
+  </defs>
+  <text class="cls-6" transform="translate(257.95 156.14)"><tspan class="cls-1" x="0" y="0">PHAM</tspan><tspan class="cls-3" x="252.69" y="0">A</tspan></text>
+  <text class="cls-4" transform="translate(322.93 89.94)"><tspan class="cls-16" x="0" y="0">A</tspan><tspan class="cls-13" x="20.35" y="0">U</tspan><tspan class="cls-8" x="40.68" y="0">T</tspan><tspan class="cls-13" x="57.28" y="0">OES</tspan><tspan class="cls-7" x="114.49" y="0">C</tspan><tspan class="cls-17" x="132.66" y="0">OL</tspan><tspan class="cls-9" x="171.15" y="0">A</tspan></text>
+  <text class="cls-5" transform="translate(264.44 173.55)"><tspan x="0" y="0">CENT</tspan><tspan class="cls-15" x="40.51" y="0">R</tspan><tspan x="50.97" y="0">O DE FORM</tspan><tspan class="cls-14" x="136.12" y="0">A</tspan><tspan class="cls-11" x="147.36" y="0">Ç</tspan><tspan class="cls-14" x="157.61" y="0">Ã</tspan><tspan x="168.86" y="0">O DE </tspan><tspan class="cls-2" x="208.45" y="0">C</tspan><tspan class="cls-12" x="218.41" y="0">ONDU</tspan><tspan class="cls-10" x="264.26" y="0">T</tspan><tspan class="cls-12" x="273.29" y="0">ORES</tspan></text>
+  <path d="M131.53,65.32c-14.37,0-26.07,11.69-26.07,26.07v64.68c0,14.37,11.69,26.07,26.07,26.07h86.39c14.37,0,26.07-11.69,26.07-26.07v-90.75h-112.46ZM235.7,154.83c0,10.85-8.8,19.65-19.65,19.65h-82.65c-10.85,0-19.65-8.8-19.65-19.65v-62.21c0-10.85,8.8-19.65,19.65-19.65h102.29v81.86Z"/>
+  <path d="M200.45,95.81c12.43-.13,22.98,10.32,22.8,22.8.18,12.43-10.37,22.98-22.8,22.8h-34.61v14.72h-23.52v-60.32h58.12ZM194.57,123.73c1.39,0,2.6-.49,3.59-1.48s1.53-2.24,1.53-3.64-.49-2.65-1.53-3.64c-.99-1.03-2.2-1.53-3.59-1.53h-28.73v10.28h28.73Z"/>
+  <g>
+    <rect x="142.32" y="123.73" width="1.28" height="17.68"/>
+    <polygon points="118.64 123.73 118.64 141.41 134.09 141.41 142.32 123.73 118.64 123.73"/>
+  </g>
+</svg>
